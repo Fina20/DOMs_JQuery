@@ -1,4 +1,7 @@
 # DOMs_JQuery
+
+
+
 Manipulation de DOMs avec jquery
 Run rails db:migrate
     rails db:seed
